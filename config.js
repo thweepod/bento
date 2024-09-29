@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Jellyfin',
 			icon: 'tv-minimal-play',
-			link: 'https://jellyfin.tripod.wtf',
+			link: 'https://jelly.tripod.wtf',
 		},
 		{
 			id: '3',
