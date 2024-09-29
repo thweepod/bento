@@ -124,7 +124,7 @@ const CONFIG = {
 			id: '6',
 			name: 'tp-link',
 			icon: 'ethernet-port',
-			link: 'tplinkwifi.net/',
+			link: 'http://tplinkwifi.net/',
 		},
 	],
 
